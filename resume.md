@@ -13,6 +13,7 @@ permalink: /resume/
 * Github：[https://github.com/hirokisan/](https://github.com/hirokisan/)
 * Qiita：[https://qiita.com/hirokisan](https://qiita.com/hirokisan)
 * Wantedly：[https://www.wantedly.com/users/7225760](https://www.wantedly.com/users/7225760)
+* 転職ドラフト：[https://job-draft.jp/users/22034](https://job-draft.jp/users/22034)
 
 ## 職務経歴（概要）
 ### ソフトウェア開発
