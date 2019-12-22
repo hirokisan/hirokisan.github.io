@@ -4,19 +4,23 @@ title: 職務経歴書
 permalink: /resume/
 ---
 
+最終更新日：2019-12-22
+
 ## 個人データ
 * 氏名：上野広樹
 * ID：hirokisan
 * Mail：hiroki.jobchange@gmail.com
 
 ## 各種URL
-* Github：[https://github.com/hirokisan/](https://github.com/hirokisan/)
+* GitHub：[https://github.com/hirokisan/](https://github.com/hirokisan/)
 * Qiita：[https://qiita.com/hirokisan](https://qiita.com/hirokisan)
 * Wantedly：[https://www.wantedly.com/users/7225760](https://www.wantedly.com/users/7225760)
 * 転職ドラフト：[https://job-draft.jp/users/22034](https://job-draft.jp/users/22034)
 
 ## 職務経歴（概要）
 ### ソフトウェア開発
+* AI系SaaSの開発
+  * バックエンド：1年
 * 中古車情報サイトの開発
 	* 企画/進行管理：1.5年
 	* マークアップ：1.5年
@@ -24,9 +28,29 @@ permalink: /resume/
 * 自動車コンテンツサイトの開発
 	* プログラミング：0.5年
 
-### プログラミングスキル
+### プログラミング関連スキル
+#### Go
+* 2018年から日常的にバックエンド業務で利用
+  * WebAPI, Batch, DevUtil
+* 2018年から個人プロジェクトのバックエンドで利用
+  * Goaを利用したWebAPI
+
+#### NoSQL
+* MongoDBを用いたWebアプリケーション開発で利用
+
+#### Docker
+* 2018年から日常的に業務で利用
+* 趣味のプロダクトで利用
+
+#### Kubernetes
+* 2018年から個人のプロジェクトで利用
+
+#### GCP
+* 2018年から個人のプロジェクトで利用
+  * GKE, GCB, GCR, GCS, ...
+
 #### PHP
-* 2016年から日常的に業務で利用
+* 2016年から2018年まで日常的に業務で利用
 * 独自フレームワークとFuelPHP1.7, CakePHP2系, WordPressの実務経験あり
 * Laravelは趣味プロダクトで利用
 * [閲覧履歴機能] SessionとRedisを用いて会員ログイン時/非ログイン時の同期処理等の実装
@@ -34,7 +58,7 @@ permalink: /resume/
 * [リファクタリング] MVCモデルのControllerやViewに再利用可能ではない形のロジックが散見され、ロジック変更による影響範囲が極小化されておらずメンテナンスコストが高まっていたため、ロジックを適当な粒度に分割してClass等に再配置
 
 #### JavaScript
-* フロントエンド開発のために2年ほど経験
+* 2016年から2018年までフロントエンド開発で利用
 * jQueryの実務経験あり
 * フォーム送信の際のフロントサイドのバリデーションチェック実装
 * ハンバーガーメニュー等コンポーネントの実装
@@ -52,7 +76,7 @@ permalink: /resume/
 * 2016年から日常的に業務で利用
 
 #### HTML/CSS
-* 2016年から日常的に業務で利用
+* 2016年から2018年まで日常的に業務で利用
 * Photoshop等のデザインデータをベースにして、複数ページからコンポーネント単位に渡る実装
 * SEO向けのセマンティックな実装
 * Canvasを用いた画像加工機能実装
@@ -65,19 +89,22 @@ permalink: /resume/
 * SessionとRedisを用いて会員ログイン時/非ログイン時の同期処理等の実装
 
 #### Node.js
+* 業務のRPAツール開発で利用
 * 趣味のプロダクトで利用
-* RPAツール開発で利用
 
 #### Python
 * 趣味のプロダクトで利用
 
 #### VirtualBox/Vagrant
-* 2016年から日常的に業務で利用
-
-#### Docker
-* 趣味のプロダクトで利用
+* 2016年から2018年まで日常的に業務で利用
 
 ## 職務経歴（現職）
+### 某企業（2018/12-）
+#### AI系SaaSの開発@Tokyo
+
+* WebAPI設計/開発
+* Batch設計/開発
+* 機能開発
 
 ## 職務経歴（前職以前）
 ### 株式会社ファブリカコミュニケーションズ（2016/4〜2018/11）
